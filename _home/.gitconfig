@@ -1,0 +1,8 @@
+[user]
+	name = Miguel Diaz
+	email = miguel.diaz@codescrum.com
+[color]
+	ui = true
+[core]
+        excludesfile = ~/.gitignore_global
+
